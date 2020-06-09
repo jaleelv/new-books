@@ -1,0 +1,9 @@
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@600&display=swap');
+*{
+    box-sizing: border-box;
+}
+header,
+section{
+    overflow-x: hidden;
+}
